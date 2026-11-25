@@ -1,4 +1,4 @@
-﻿# PollakRadio API Dokumentáció
+# PollakRadio API Dokumentáció
 
 
 > **Fontos biztonsági megjegyzés:** A dokumentációban szereplő tokenek, cookie-k és személyes adatok placeholder értékekre vannak cserélve (`YOUR_RADIO_ACCESS_TOKEN`, `YOUR_VOTER_COOKIE` stb.). A valódi rögzített értékeket soha ne használd újra.
@@ -28,7 +28,7 @@
 
 ## 1. Áttekintés
 
-A **PollakRadio** egy iskolai rádiófelület (Pollák Mihály Technikum), amely Spotify integrációt használ. A rendszer földrajzi korlátozást alkalmaz: a rádió felülete csak az iskola körzetében érhető el.
+A **PollakRadio** egy iskolai rádiófelület (Pollák Antal Technikum), amely Spotify integrációt használ. A rendszer földrajzi korlátozást alkalmaz: a rádió felülete csak az iskola körzetében érhető el.
 
 ### Fő komponensek
 
